@@ -38,8 +38,8 @@ header.site {
 }
 
 .wings {
-  width: 96px;
-  height: 48px;
+  width: 104px;
+  height: 68px;
   color: var(--rose-deep);
   display: inline-block;
 }
